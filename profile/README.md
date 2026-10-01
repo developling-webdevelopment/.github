@@ -18,7 +18,6 @@
 <a href="https://nginx.org"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" height="40" /></a>&nbsp;
 <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40" /></a>&nbsp;
 <a href="https://nuxt.com"><img src="https://skillicons.dev/icons?i=nuxtjs" alt="Nuxt" height="40" /></a>&nbsp;
-<a href="https://www.sketch.com"><img src="https://skillicons.dev/icons?i=sketch" alt="Sketch" height="40" /></a>&nbsp;
 <a href="https://vuejs.org"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" height="40" /></a>
 </p>
 
